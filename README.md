@@ -6,3 +6,6 @@ Esta é uma atualização do local do README
 
 
 Uma alteração no repositório remoto 
+
+
+gerando um conflito remoto 
