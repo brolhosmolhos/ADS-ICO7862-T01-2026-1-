@@ -7,4 +7,8 @@ Esta é uma atualização do local do README
 Uma alteração no repositório remoto 
 
 
+<<<<<<< HEAD
 Gerando um conflito local 
+=======
+gerando um conflito remoto 
+>>>>>>> origin/main
